@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">VPN Local</string>
+    <string name="start_vpn">Iniciar VPN</string>
+    <string name="stop_vpn">Detiene desde la barra de notificaciones</string>
+    <string name="action_settings">Ajustes</string>
+    <string name="IB">Encendido</string>
+
+</resources>
